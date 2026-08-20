@@ -1,0 +1,10 @@
+# Backups / raw artifacts — never commit these
+backups/
+*.bin
+*.vhd
+*.vdi
+ntbtlog.txt
+
+# OS junk
+Thumbs.db
+desktop.ini
